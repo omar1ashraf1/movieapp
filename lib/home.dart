@@ -30,10 +30,10 @@ class _MyStatefulWidgetState extends State<MyStatefulWidget> {
     
     ListImages(),
     Text(
-      'Index 1: Business',
+      'Index 1: CONTACT',
     ),
     Text(
-      'Index 2: School',
+      'Index 2: REGISTER',
       
     ),
   ];
